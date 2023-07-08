@@ -1,4 +1,4 @@
-# 1.1.6
+# 1.1.5
 
 ## Bug fixes
 - Fix `AllAnime` extractors
