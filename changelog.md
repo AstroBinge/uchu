@@ -1,8 +1,9 @@
-# 1.1.4
+# 1.1.5
 
 ## Bug fixes
-- Fix `genre page` crashes
+- Fix `AllAnime` extractors
 - Fix issues with Anilist logins
+- change video player
 
 ## Features
 - Easy and functional way to both, watch anime and read manga, ad-free.
