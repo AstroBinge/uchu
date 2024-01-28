@@ -1,6 +1,5 @@
-# 1.1.6
+# 1.1.7
 
 ## Bug fixes
-- Fix `AllAnime`, `AnimeDAO` extractor
-- Remove `Marin`, `9Anime`
-- Add `AniWave` extractor
+- Fix `GOGOAnime` extractor
+- Remove `AniWave`
